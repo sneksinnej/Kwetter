@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package domain;
-tekst om flow te breken
 /**
  *
  * @author Dennis
